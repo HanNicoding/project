@@ -1,0 +1,48 @@
+{
+  "name": "dessertoasis-vue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^39.0.1",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@fullcalendar/core": "^6.1.8",
+    "@fullcalendar/daygrid": "^6.1.8",
+    "@fullcalendar/interaction": "^6.1.8",
+    "@fullcalendar/vue3": "^6.1.8",
+    "@vicons/ionicons-v5": "^0.0.4",
+    "@vicons/ionicons5": "^0.12.0",
+    "@vuepic/vue-datepicker": "^6.0.2",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "c3": "^0.7.20",
+    "chart.js": "^4.4.0",
+    "crypto-js": "^4.1.1",
+    "google-auth-library": "^9.0.0",
+    "pinia": "^2.1.4",
+    "sockjs-client": "^1.6.1",
+    "stompjs": "^2.3.3",
+    "vicons": "^0.0.1",
+    "vue": "^3.3.4",
+    "vue-chartjs": "^5.2.0",
+    "vue-router": "^4.2.4",
+    "vue-sweetalert2": "^5.0.5",
+    "vue3-carousel": "^0.3.1",
+    "vue3-google-login": "^2.0.20",
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.2",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "naive-ui": "^2.34.4",
+    "vite": "^4.4.6"
+  }
+}
